@@ -2,7 +2,7 @@
 
 > A curated list of AI tools, platforms, and resources for developers, creators, and businesses.
 > 
-> *Last updated: 2026-09-14*
+> *Last updated: 2026-09-19*
 
 ---
 
@@ -12,6 +12,7 @@
 - [AI Image Generation](#ai-image-generation)
 - [AI Writing & Content](#ai-writing--content)
 - [AI Coding Assistants](#ai-coding-assistants)
+- [AI Testing & QA](#ai-testing--qa)
 - [AI Audio & Voice](#ai-audio--voice)
 - [Open Source AI Tools](#open-source-ai-tools)
 
@@ -78,6 +79,14 @@ Unified API for accessing 200+ AI models with pay-as-you-go pricing.
 - **[Codeium](https://codeium.com)** — Free AI code completion
 - **[Devin](https://cognition.ai)** — Autonomous AI software engineer
 - **[Replit AI](https://replit.com)** — Browser-based AI coding
+
+---
+
+## AI Testing & QA
+
+| Tool | Best For | Pricing |
+|------|----------|---------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web, Android, and iOS application tests | No software fee for permitted FSL-1.1-ALv2 use; provider costs extra |
 
 ---
 
